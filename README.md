@@ -118,4 +118,4 @@ The dataset contains **38,000+ loan records** with details like:
 ## 📬 Author
 
 **👤 Aiswarya P V**  
-[LinkedIn](www.linkedin.com/in/aiswarya-p-v-4a429b1b7) | [GitHub]([Your GitHub Profile](https://github.com/Aiswarya196))
+[LinkedIn](www.linkedin.com/in/aiswarya-p-v-4a429b1b7) | [GitHub]([GitHub Profile](https://github.com/Aiswarya196))
